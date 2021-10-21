@@ -35,3 +35,12 @@
 <p style="margin:10px;" align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ameyachawlaggsipu&theme=chartreuse-dark" alt="ameyachawlaggsipu" /></p>
 
 <a href="https://github.com/SubhamRaoniar28/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ameyachawlaggsipu&bg_color=000000&color=7FFE00&line=197300&point=00ADFE&hide_border=false&border_radius=5" /></a>
+
+<div align="center">
+  
+## Show some ❤️ by starring ⭐ some of the repositories
+
+![](https://hit.yhype.me/github/profile?user_id=71445997)
+  <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+<br />
+</div>
