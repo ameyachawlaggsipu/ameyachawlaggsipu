@@ -11,7 +11,6 @@
 
 
 ![the-office](https://user-images.githubusercontent.com/88154798/138342554-545a1e5d-c13f-4da4-8530-aa9b27acde96.gif)
-![crazy-dance-funny-dance](https://user-images.githubusercontent.com/88154798/138342674-8141e321-b49a-4210-aa54-55f7ece83201.gif)
 ![dance-dance-off](https://user-images.githubusercontent.com/88154798/138342245-16890712-d4eb-4dbb-a863-db71121f1e29.gif)
 ![the-office-michael-scott (1)](https://user-images.githubusercontent.com/88154798/138343032-7d95f25e-3ea1-480b-9290-11cdd2ac6d89.gif)
 
