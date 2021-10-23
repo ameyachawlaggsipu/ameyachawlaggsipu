@@ -1,7 +1,7 @@
 <h1 align="center" >Hi <img src="https://raw.githubusercontent.com/ptprashanttripathi/ptprashanttripathi/master/hi.gif" alt="wave" width="30px">, I'm Ameya Chawla !!! Happy to see you all in my profile.</h1>
 <h3 align="center">Final Year  Engineering student with a passion for learning and implementing new algorithms.</h3>
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Machine Learning , CyberSecurity**
 
 - 💬 Ask me about **C, C++, Python, etc....**
 
