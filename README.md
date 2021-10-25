@@ -34,7 +34,7 @@
 
 <p style="margin:10px;" align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ameyachawlaggsipu&theme=chartreuse-dark" alt="ameyachawlaggsipu" /></p>
 
-<a href="https://github.com/SubhamRaoniar28/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ameyachawlaggsipu&bg_color=000000&color=7FFE00&line=197300&point=00ADFE&hide_border=false&border_radius=5" /></a>
+
 
 <div align="center">
   
