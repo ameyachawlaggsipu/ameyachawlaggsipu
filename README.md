@@ -35,7 +35,7 @@
 <p style="margin:10px;" align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ameyachawlaggsipu&theme=chartreuse-dark" alt="ameyachawlaggsipu" /></p>
 
 
-![Ameya's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=ameyachawlaggsipu&hide_border=true&theme=redical)
+
 
 <div align="center">
   
