@@ -1,6 +1,5 @@
 # Machine Learning and Data Science Enthusiast
-## 📄 Resume
-[View My Resume](https://drive.google.com/file/d/1TQhON-vgsyje4SPP2hR8U7E38o9K5hL-/view?usp=sharing)
+
 
 ## 📍 Location
 Ontario, Canada
