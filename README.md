@@ -9,6 +9,7 @@ Ontario, Canada
 - Phone: +1 (613) 276-6829
 - [LinkedIn](https://www.linkedin.com/in/ameya-chawla-88b58b235/)
 - [GitHub](https://github.com/ameyachawlaggsipu)
+- [Google Scholar](https://scholar.google.ca/citations?user=cQOH0mIAAAAJ&hl=en)
 
 ## 📖 Summary of Qualifications
 - Currently pursuing a **Master of Computer Science (AI)** at the University of Ottawa with **1.5+ years** of Canadian experience in **Data Science, Software Engineering, and Business Intelligence roles**.
