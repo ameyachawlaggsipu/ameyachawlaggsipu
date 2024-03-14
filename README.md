@@ -6,21 +6,6 @@
 - [GitHub](https://github.com/ameyachawlaggsipu)
 - [Google Scholar](https://scholar.google.ca/citations?user=cQOH0mIAAAAJ&hl=en)
 
-## 📖 Summary of Qualifications
-- Currently pursuing a **Master of Computer Science (AI)** at the University of Ottawa with **1.5+ years** of Canadian experience in **Data Science, Software Engineering, and Business Intelligence roles**.
-  
-- **Programming Languages:** Proficient in Python, C, C++, Java, SQL, Bash.
-
-- **Operating Systems:** Experienced with Unix, Windows, Linux.
-
-- **Data Analysis and ETL Tools:** Skilled in Tableau, Microsoft Power BI, Azure ML, Excel, PySpark, Azure Databricks, Apache Spark, Matplotlib, Seaborn, Pandas, PostgreSQL.
-
-- **Tools and Frameworks:** Expertise in PyTorch, TensorFlow, Keras, CUDA, Scikit-learn, Docker, Flask, Reinforcement Learning, ElasticSearch, Azure Kubernetes Service, CI/CD, Jenkins, DevOps, JIRA.
-
-- **Expanded Skill Set:** Knowledgeable in Data Engineering, Data Visualization, Gradient Boosting, Statistical Testing, Data Mining, Git, User Acceptance Testing, Data Wrangling, Regression Analysis, MLOps.
-
-- **Soft Skills:** Adaptable, Teamwork, Time Management, Innovative, Detail-oriented, Communication Skills.
-
 
 Feel free to reach out via email or LinkedIn for any professional inquiries or collaborations. Let's connect and explore how we can work together on innovative projects!
 
