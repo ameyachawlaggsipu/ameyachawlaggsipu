@@ -1,4 +1,4 @@
-# Machine Learning and Data Science Enthusiast
+# Computer Science Student
 
 ## ✉️ Contact
 - Email: ameya.chawla.ml@gmail.com
