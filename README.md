@@ -4,7 +4,7 @@
 - Email: ameya.chawla.ml@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/ameya-chawla-88b58b235/)
 - [GitHub](https://github.com/ameyachawlaggsipu)
-- [Google Scholar](https://scholar.google.ca/citations?user=cQOH0mIAAAAJ&hl=en)
+- [Portfolio](https://d2in28hjd9d7d5.cloudfront.net/)
 
 
 Feel free to reach out via email or LinkedIn for any professional inquiries or collaborations. Let's connect and explore how we can work together on innovative projects!
